@@ -1,0 +1,18 @@
+# OCR and Image Processing
+pytesseract>=0.3.10
+Pillow>=10.0.0
+opencv-python-headless>=4.9.0.80
+pdf2image>=1.17.0
+
+# Metrics & Text Processing
+python-Levenshtein>=0.25.0
+
+# Utilities
+numpy>=1.26.0
+pandas>=2.0.0
+
+# Gradio App
+gradio>=4.0.0
+
+# Nginx (optional, for some Spaces configurations)
+nginx
