@@ -2,8 +2,7 @@ streamlit==1.22.0
 pytesseract==0.3.13
 Pillow==11.3.0
 opencv-python-headless==4.12.0.88
-numpy==2.2.3
+numpy==1.25.2
 pdf2image==1.17.0
 pandas==1.5.3
 python-Levenshtein==0.27.1
-
